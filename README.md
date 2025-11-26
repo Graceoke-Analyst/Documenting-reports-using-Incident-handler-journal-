@@ -42,6 +42,7 @@ Used VirusTotal to investigate the suspicious SHA-256 file hash and perform deep
 Quickly confirmed the file as malicious and a real threat, enabling the security team to move immediately to containment and eradication based on validated external threat intelligence.
 
 ## Project artifact
+see Incident handler file @ Incident_handler.md (
 
 
 
